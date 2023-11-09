@@ -14,7 +14,7 @@ rotary-embedding-torch
 fairscale
 scipy
 imageio
-audiocraft
+audiocraft==1.0.0
 easydict
 pytorch_lightning
 fairseq
